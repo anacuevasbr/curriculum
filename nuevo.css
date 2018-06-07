@@ -1,0 +1,108 @@
+
+  .web-page {
+    background-color: #e0b3ff;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .side-bar {
+    float:left;
+    height:95%;
+    width:30%;
+    background-color:#ffa31a;
+  }
+
+  .main {
+    float:right;
+    height:95%;
+    width:68%;
+    background-color:#ffff99;
+  }
+
+  .menu {
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  .menu a {
+    float: left;
+    display: block;
+    color: #3b3d41;
+    text-align: center;
+    padding: 10px 12px;
+    color: white;
+    text-decoration: none;
+  }
+
+  .menu a:hover {
+    background-color: #cfcbd1;
+    color: black;
+  }
+
+  ul{
+    list-style-type: circle;
+  }
+
+  #crew{
+    float: right;
+    width: 40%;
+  }
+
+  a:link {
+      text-decoration: none;
+      color:black;
+  }
+
+  a:visited {
+      text-decoration: none;
+      color:black;
+  }
+
+  a:hover {
+      text-decoration: underline;
+      color:red;
+  }
+  .container {
+    padding: 5% 5% 5% 5%;
+  }
+
+  header {
+    padding: 0.2em;
+    background-color:#333399;
+    text-align: center;
+    color: white;
+
+  }
+
+
+  .image {
+    border-radius:4px;
+  }
+
+  table{
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 80%;
+  }
+
+  table, td, th {
+    border: 1px solid black;
+  }
+
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #333399;
+    color: white;
+  }
+  p {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 14px;
+  }
+
+  h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 24px;
+  }
